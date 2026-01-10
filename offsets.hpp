@@ -1,6 +1,7 @@
 // Roblox Version: version-89d89cb2d6b649be
 // Byfron Version: ???
-// Off
+
+// External Offsets
 namespace offsets {
     inline constexpr uintptr_t Adornee = 0xD0;
     inline constexpr uintptr_t Anchored = 0x1AE;
