@@ -1,32 +1,32 @@
-// Roblox Version: version-2e6461290a3541f5
+// Roblox Version: version-390ba09e7e944154
 // Byfron Version: ???
 
 // External Offsets Json
 
 {
     "PlayerConfigurer": {
-        "Pointer": 129426856
+        "Pointer": 129427432
     },
     "TaskScheduler": {
-        "Pointer": 130497904,
+        "Pointer": 130498128,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 125067288,
+        "Pointer": 125067872,
         "Dimensions": 2656,
         "ViewMatrix": 304,
         "RenderView": 2880,
         "FakeDataModel": 2624
     },
     "FakeDataModel": {
-        "Pointer": 129601784,
+        "Pointer": 129602008,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 130254832,
+        "SensitivityPointer": 130255056,
         "InputObject": 256,
         "InputObject2": 272,
         "MousePosition": 236
@@ -38,7 +38,7 @@
         "IsCoreScript": 0,
         "GUID": 232,
         "Hash": 352,
-        "ByteCode": 336
+        "ByteCode": 0
     },
     "RenderView": {
         "LightingValid": 328,
@@ -95,8 +95,8 @@
         "PrimitiveCount": 1088
     },
     "RunService": {
-        "HeartbeatTask": 440,
-        "HeartbeatFPS": 196
+        "HeartbeatTask": 952,
+        "HeartbeatFPS": 244
     },
     "RenderJob": {
         "RenderView": 464,
@@ -163,7 +163,7 @@
         "Playing": 340
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 504,
+        "AllowTeamChangeOnTouch": 69,
         "Enabled": 505,
         "Neutral": 506,
         "ForcefieldDuration": 496,
@@ -381,7 +381,7 @@
         "BorderColor3": 1364,
         "TextColor3": 3696,
         "LayoutOrder": 1416,
-        "ZIndex": 1452,
+        "ZIndex": 411,
         "BackgroundTransparency": 1364,
         "Rotation": 392
     },
@@ -451,40 +451,40 @@
         "Intensity": 208,
         "Size": 212,
         "Threshold": 216,
-        "Enabled": 200
+        "Enabled": 167
     },
     "DepthOfFieldEffect": {
         "FocusDistance": 212,
         "FarIntensity": 208,
         "NearIntensity": 220,
         "InFocusRadius": 216,
-        "Enabled": 200
+        "Enabled": 167
     },
     "SunRaysEffect": {
         "Intensity": 208,
         "Spread": 212,
-        "Enabled": 200
+        "Enabled": 167
     },
     "ColorCorrectionEffect": {
         "Brightness": 220,
         "Contrast": 224,
         "TintColor": 208,
-        "Enabled": 200
+        "Enabled": 167
     },
     "ColorGradingEffect": {
         "TonemapperPreset": 208,
-        "Enabled": 200
+        "Enabled": 167
     },
     "BlurEffect": {
         "Size": 208,
-        "Enabled": 200
+        "Enabled": 167
     },
     "ProximityPrompt": {
         "ActionText": 208,
         "ObjectText": 240,
         "HoldDuration": 320,
         "MaxActivationDistance": 328,
-        "KeyCode": 324,
+        "KeyCode": 167,
         "GamepadKeyCode": 316,
         "Enabled": 342,
         "RequiresLineOfSight": 343
@@ -520,7 +520,7 @@
     "LocalScript": {
         "GUID": 232,
         "Hash": 440,
-        "ByteCode": 424
+        "ByteCode": 0
     },
     "ByteCode": {
         "Size": 32,
@@ -529,6 +529,6 @@
     "Script": {
         "GUID": 232,
         "Hash": 440,
-        "ByteCode": 424
+        "ByteCode": 0
     }
 }
