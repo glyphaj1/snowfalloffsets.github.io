@@ -1,32 +1,32 @@
-// Roblox Version: version-390ba09e7e944154
+// Roblox Version: version-acc4b74f79e743b9
 // Byfron Version: ???
 
 // External Offsets Json
 
 {
     "PlayerConfigurer": {
-        "Pointer": 129427432
+        "Pointer": 129951976
     },
     "TaskScheduler": {
-        "Pointer": 130498128,
+        "Pointer": 131027968,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 125067872,
-        "Dimensions": 2656,
+        "Pointer": 125593200,
+        "Dimensions": 2704,
         "ViewMatrix": 304,
-        "RenderView": 2880,
-        "FakeDataModel": 2624
+        "RenderView": 2928,
+        "FakeDataModel": 2672
     },
     "FakeDataModel": {
-        "Pointer": 129602008,
+        "Pointer": 130130248,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 130255056,
+        "SensitivityPointer": 130783952,
         "InputObject": 256,
         "InputObject2": 272,
         "MousePosition": 236
@@ -54,7 +54,7 @@
         "Parent": 112,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 3560,
+        "ClassBase": 3656,
         "AttributeContainer": 72,
         "AttributeList": 24,
         "AttributeToNext": 88,
@@ -95,8 +95,8 @@
         "PrimitiveCount": 1088
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 312,
+        "HeartbeatFPS": 180
     },
     "RenderJob": {
         "RenderView": 464,
@@ -105,16 +105,16 @@
     },
     "Workspace": {
         "World": 1032,
-        "ReadOnlyGravity": 2496,
+        "ReadOnlyGravity": 2488,
         "DistributedGameTime": 1200,
         "CurrentCamera": 1168
     },
     "World": {
-        "Gravity": 472,
-        "worldStepsPerSec": 1640,
-        "FallenPartsDestroyHeight": 464,
-        "AirProperties": 480,
-        "Primitives": 584
+        "Gravity": 528,
+        "worldStepsPerSec": 1720,
+        "FallenPartsDestroyHeight": 520,
+        "AirProperties": 536,
+        "Primitives": 640
     },
     "AirProperties": {
         "AirDensity": 24,
@@ -127,7 +127,7 @@
         "WaterWaveSize": 520,
         "WaterWaveSpeed": 524,
         "WaterColor": 488,
-        "MaterialColors": 656
+        "MaterialColors": 680
     },
     "MaterialColors": {
         "Asphalt": 48,
@@ -226,7 +226,7 @@
         "MinZoomDistance": 804,
         "MaxZoomDistance": 800,
         "CameraMode": 808,
-        "Mouse": 4440
+        "Mouse": 4456
     },
     "Team": {
         "BrickColor": 208
@@ -234,14 +234,14 @@
     "Humanoid": {
         "Health": 404,
         "MaxHealth": 436,
-        "Walkspeed": 468,
-        "WalkspeedCheck": 956,
+        "Walkspeed": 476,
+        "WalkspeedCheck": 964,
         "JumpPower": 432,
         "JumpHeight": 428,
         "HipHeight": 416,
         "MaxSlopeAngle": 440,
         "SeatPart": 288,
-        "HumanoidRootPart": 1144,
+        "HumanoidRootPart": 1152,
         "CameraOffset": 320,
         "HealthDisplayDistance": 408,
         "NameDisplayDistance": 444,
@@ -250,22 +250,22 @@
         "NameOcclusion": 448,
         "DisplayName": 208,
         "MoveDirection": 344,
-        "RigType": 456,
-        "Jump": 477,
-        "Sit": 480,
-        "PlatformStand": 479,
-        "UseJumpPower": 483,
-        "AutomaticScalingEnabled": 474,
-        "BreakJointsOnDeath": 475,
-        "EvaluateStateMachine": 476,
-        "RequiresNeck": 480,
-        "AutoJumpEnabled": 472,
-        "AutoRotate": 473,
-        "IsWalking": 2327,
+        "RigType": 460,
+        "Jump": 486,
+        "Sit": 489,
+        "PlatformStand": 488,
+        "UseJumpPower": 492,
+        "AutomaticScalingEnabled": 482,
+        "BreakJointsOnDeath": 483,
+        "EvaluateStateMachine": 484,
+        "RequiresNeck": 489,
+        "AutoJumpEnabled": 480,
+        "AutoRotate": 481,
+        "IsWalking": 2335,
         "MoveToPoint": 380,
         "MoveToPart": 304,
-        "WalkTimer": 1040,
-        "HumanoidState": 2200,
+        "WalkTimer": 1048,
+        "HumanoidState": 2208,
         "HumanoidStateID": 32,
         "FloorMaterial": 400,
         "TargetPoint": 356
@@ -451,43 +451,43 @@
         "Intensity": 208,
         "Size": 212,
         "Threshold": 216,
-        "Enabled": 167
+        "Enabled": 200
     },
     "DepthOfFieldEffect": {
         "FocusDistance": 212,
         "FarIntensity": 208,
         "NearIntensity": 220,
         "InFocusRadius": 216,
-        "Enabled": 167
+        "Enabled": 200
     },
     "SunRaysEffect": {
         "Intensity": 208,
         "Spread": 212,
-        "Enabled": 167
+        "Enabled": 200
     },
     "ColorCorrectionEffect": {
         "Brightness": 220,
         "Contrast": 224,
         "TintColor": 208,
-        "Enabled": 167
+        "Enabled": 200
     },
     "ColorGradingEffect": {
         "TonemapperPreset": 208,
-        "Enabled": 167
+        "Enabled": 200
     },
     "BlurEffect": {
         "Size": 208,
-        "Enabled": 167
+        "Enabled": 200
     },
     "ProximityPrompt": {
-        "ActionText": 208,
-        "ObjectText": 240,
-        "HoldDuration": 320,
-        "MaxActivationDistance": 328,
-        "KeyCode": 167,
-        "GamepadKeyCode": 316,
-        "Enabled": 342,
-        "RequiresLineOfSight": 343
+        "ActionText": 200,
+        "ObjectText": 232,
+        "HoldDuration": 312,
+        "MaxActivationDistance": 320,
+        "KeyCode": 316,
+        "GamepadKeyCode": 308,
+        "Enabled": 334,
+        "RequiresLineOfSight": 335
     },
     "ClickDetector": {
         "MaxActivationDistance": 256,
