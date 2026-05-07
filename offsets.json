@@ -1,34 +1,34 @@
-// Roblox Version: version-acc4b74f79e743b9
+// Roblox Version: version-bf6344c9c23446bf
 // Byfron Version: ???
 
 // External Offsets Json
 
 {
     "PlayerConfigurer": {
-        "Pointer": 129951976
+        "Pointer": 122297504
     },
     "TaskScheduler": {
-        "Pointer": 131027968,
+        "Pointer": 129642904,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 125593200,
-        "Dimensions": 2704,
-        "ViewMatrix": 304,
-        "RenderView": 2928,
-        "FakeDataModel": 2672
+        "Pointer": 129473032,
+        "Dimensions": 2720,
+        "ViewMatrix": 320,
+        "RenderView": 2944,
+        "FakeDataModel": 2688
     },
     "FakeDataModel": {
-        "Pointer": 130130248,
+        "Pointer": 122276824,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 130783952,
-        "InputObject": 256,
-        "InputObject2": 272,
+        "SensitivityPointer": 775,
+        "InputObject": 264,
+        "InputObject2": 280,
         "MousePosition": 236
     },
     "ScriptContext": {
@@ -54,7 +54,7 @@
         "Parent": 112,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 3656,
+        "ClassBase": 18216,
         "AttributeContainer": 72,
         "AttributeList": 24,
         "AttributeToNext": 88,
@@ -67,7 +67,7 @@
         "AnimationId": 208
     },
     "MeshContentProvider": {
-        "Cache": 232,
+        "Cache": 240,
         "LRUCache": 32,
         "AssetID": 16,
         "ToMeshData": 64,
@@ -80,23 +80,23 @@
         "FaceEnd": 56
     },
     "DataModel": {
-        "PlaceId": 408,
-        "GameId": 400,
-        "CreatorId": 392,
-        "GameLoaded": 1528,
+        "PlaceId": 416,
+        "GameId": 408,
+        "CreatorId": 400,
+        "GameLoaded": 1568,
         "JobId": 312,
         "Workspace": 376,
-        "ScriptContext": 1008,
-        "PlaceVersion": 436,
-        "ServerIP": 1504,
-        "ToRenderView1": 464,
+        "ScriptContext": 1024,
+        "PlaceVersion": 444,
+        "ServerIP": 1544,
+        "ToRenderView1": 472,
         "ToRenderView2": 8,
         "ToRenderView3": 40,
-        "PrimitiveCount": 1088
+        "PrimitiveCount": 1128
     },
     "RunService": {
-        "HeartbeatTask": 312,
-        "HeartbeatFPS": 180
+        "HeartbeatTask": 3872,
+        "HeartbeatFPS": 212
     },
     "RenderJob": {
         "RenderView": 464,
@@ -105,13 +105,13 @@
     },
     "Workspace": {
         "World": 1032,
-        "ReadOnlyGravity": 2488,
+        "ReadOnlyGravity": 2496,
         "DistributedGameTime": 1200,
         "CurrentCamera": 1168
     },
     "World": {
         "Gravity": 528,
-        "worldStepsPerSec": 1720,
+        "worldStepsPerSec": 1656,
         "FallenPartsDestroyHeight": 520,
         "AirProperties": 536,
         "Primitives": 640
@@ -163,7 +163,7 @@
         "Playing": 340
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 69,
+        "AllowTeamChangeOnTouch": 504,
         "Enabled": 505,
         "Neutral": 506,
         "ForcefieldDuration": 496,
@@ -213,7 +213,7 @@
         "Width1": 444
     },
     "Player": {
-        "LocalPlayer": 304,
+        "LocalPlayer": 312,
         "UserId": 712,
         "DisplayName": 304,
         "HealthDisplayDistance": 840,
@@ -391,7 +391,7 @@
         "AbsoluteRotation": 392
     },
     "UserInputService": {
-        "WindowInputState": 656
+        "WindowInputState": 664
     },
     "WindowInputState": {
         "CurrentTextBox": 72,
@@ -402,28 +402,28 @@
         "Texture_Texture": 408
     },
     "Lighting": {
-        "ClockTime": 440,
-        "Brightness": 288,
-        "EnvironmentDiffuseScale": 292,
-        "EnvironmentSpecularScale": 296,
-        "FogStart": 312,
-        "FogEnd": 308,
-        "FogColor": 252,
-        "Ambient": 216,
-        "OutdoorAmbient": 264,
-        "ColorShift_Top": 228,
-        "ColorShift_Bottom": 240,
-        "ExposureCompensation": 300,
-        "GeographicLatitude": 400,
-        "LightColor": 348,
-        "GradientTop": 336,
-        "LightDirection": 360,
-        "GradientBottom": 404,
-        "GlobalShadows": 328,
-        "MoonPosition": 388,
-        "SunPosition": 376,
-        "Source": 372,
-        "Sky": 472
+        "ClockTime": 448,
+        "Brightness": 296,
+        "EnvironmentDiffuseScale": 300,
+        "EnvironmentSpecularScale": 304,
+        "FogStart": 320,
+        "FogEnd": 316,
+        "FogColor": 260,
+        "Ambient": 224,
+        "OutdoorAmbient": 272,
+        "ColorShift_Top": 236,
+        "ColorShift_Bottom": 248,
+        "ExposureCompensation": 308,
+        "GeographicLatitude": 408,
+        "LightColor": 356,
+        "GradientTop": 344,
+        "LightDirection": 368,
+        "GradientBottom": 412,
+        "GlobalShadows": 336,
+        "MoonPosition": 396,
+        "SunPosition": 384,
+        "Source": 380,
+        "Sky": 480
     },
     "Sky": {
         "SkyboxBk": 272,
