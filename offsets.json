@@ -38,7 +38,7 @@
         "IsCoreScript": 0,
         "GUID": 232,
         "Hash": 352,
-        "ByteCode": 0
+        "ByteCode": 336
     },
     "RenderView": {
         "LightingValid": 328,
@@ -95,8 +95,8 @@
         "PrimitiveCount": 1128
     },
     "RunService": {
-        "HeartbeatTask": 3872,
-        "HeartbeatFPS": 212
+        "HeartbeatTask": 248,
+        "HeartbeatFPS": 184
     },
     "RenderJob": {
         "RenderView": 464,
@@ -163,7 +163,7 @@
         "Playing": 340
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 504,
+        "AllowTeamChangeOnTouch": 68,
         "Enabled": 505,
         "Neutral": 506,
         "ForcefieldDuration": 496,
@@ -287,7 +287,7 @@
         "Tooltip": 1144,
         "TextureId": 880,
         "Grip": 1212,
-        "Enabled": 1225,
+        "Enabled": 692,
         "CanBeDropped": 1224,
         "ManualActivationOnly": 1226,
         "RequiresHandle": 1227
@@ -520,7 +520,7 @@
     "LocalScript": {
         "GUID": 232,
         "Hash": 440,
-        "ByteCode": 0
+        "ByteCode": 424
     },
     "ByteCode": {
         "Size": 32,
@@ -529,6 +529,6 @@
     "Script": {
         "GUID": 232,
         "Hash": 440,
-        "ByteCode": 0
+        "ByteCode": 424
     }
 }
