@@ -1,28 +1,28 @@
-// Roblox Version: version-ec412128eba3476e
+// Roblox Version: version-9377ee10133e4be3
 // Byfron Version: ???
 
 // External Offsets Json
 
 {
     "PlayerConfigurer": {
-        "Pointer": 775
+        "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 130025864,
+        "Pointer": 130017672,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 129855992,
+        "Pointer": 129847800,
         "Dimensions": 2720,
         "ViewMatrix": 320,
         "RenderView": 2944,
         "FakeDataModel": 2688
     },
     "FakeDataModel": {
-        "Pointer": 122652504,
+        "Pointer": 122644312,
         "RealDataModel": 464
     },
     "MouseService": {
@@ -41,8 +41,8 @@
         "ByteCode": 0
     },
     "RenderView": {
-        "LightingValid": 328,
-        "SkyValid": 653,
+        "LightingValid": 0,
+        "SkyValid": 0,
         "VisualEngine": 16,
         "DeviceD3D11": 8
     },
@@ -66,19 +66,6 @@
         "Value": 208,
         "AnimationId": 208
     },
-    "MeshContentProvider": {
-        "Cache": 240,
-        "LRUCache": 32,
-        "AssetID": 16,
-        "ToMeshData": 64,
-        "MeshData": 64
-    },
-    "MeshData": {
-        "VertexStart": 0,
-        "VertexEnd": 8,
-        "FaceStart": 48,
-        "FaceEnd": 56
-    },
     "DataModel": {
         "PlaceId": 416,
         "GameId": 408,
@@ -95,8 +82,8 @@
         "PrimitiveCount": 1152
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 248,
+        "HeartbeatFPS": 184
     },
     "RenderJob": {
         "RenderView": 464,
@@ -159,8 +146,7 @@
         "PlaybackSpeed": 308,
         "Volume": 328,
         "SoundGroup": 256,
-        "Looped": 341,
-        "Playing": 344
+        "Looped": 341
     },
     "SpawnLocation": {
         "AllowTeamChangeOnTouch": 69,
@@ -381,7 +367,7 @@
         "BorderColor3": 1364,
         "TextColor3": 3672,
         "LayoutOrder": 1416,
-        "ZIndex": 1452,
+        "ZIndex": 411,
         "BackgroundTransparency": 1364,
         "Rotation": 392
     },
@@ -512,7 +498,7 @@
         "Speed": 228,
         "TimePosition": 232,
         "Looped": 245,
-        "IsPlaying": 1029
+        "IsPlaying": 2584
     },
     "Animator": {
         "ActiveAnimations": 2152
