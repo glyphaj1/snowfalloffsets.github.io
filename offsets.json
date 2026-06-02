@@ -254,7 +254,8 @@
         "HumanoidState": 2208,
         "HumanoidStateID": 32,
         "FloorMaterial": 400,
-        "TargetPoint": 356
+        "TargetPoint": 356,
+        "PlatformStatePointer": 1298167394
     },
     "Seat": {
         "Occupant": 544
