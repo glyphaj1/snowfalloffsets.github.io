@@ -190,7 +190,7 @@ namespace Offsets {
     namespace Humanoid {
          inline constexpr uintptr_t AutoJumpEnabled = 0x1e0;
          inline constexpr uintptr_t AutoRotate = 0x1e1;
-         inline constexpr uintptr_t AutomaticScalingEnabled = 0x1e2;
+         inline constexpr uintptr_t AutomaticScalingEnabled = 0xde;
          inline constexpr uintptr_t BreakJointsOnDeath = 0x1e3;
          inline constexpr uintptr_t CameraOffset = 0x140;
          inline constexpr uintptr_t DisplayDistanceType = 0x18c;
@@ -296,6 +296,21 @@ namespace Offsets {
          inline constexpr uintptr_t Slate = 0x9;
          inline constexpr uintptr_t Snow = 0x1e;
          inline constexpr uintptr_t WoodPlanks = 0x15;
+    }
+
+    namespace MeshContentProvider {
+         inline constexpr uintptr_t AssetID = 0x10;
+         inline constexpr uintptr_t Cache = 0xe8;
+         inline constexpr uintptr_t LRUCache = 0x20;
+         inline constexpr uintptr_t MeshData = 0x40;
+         inline constexpr uintptr_t ToMeshData = 0x40;
+    }
+
+    namespace MeshData {
+         inline constexpr uintptr_t FaceEnd = 0x38;
+         inline constexpr uintptr_t FaceStart = 0x30;
+         inline constexpr uintptr_t VertexEnd = 0x8;
+         inline constexpr uintptr_t VertexStart = 0x0;
     }
 
     namespace MeshPart {
