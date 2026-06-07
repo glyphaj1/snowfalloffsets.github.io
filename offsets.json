@@ -66,6 +66,19 @@
         "Value": 208,
         "AnimationId": 208
     },
+    "MeshContentProvider": {
+        "Cache": 232,
+        "LRUCache": 32,
+        "MeshData": 64,
+        "ToMeshData": 64,
+        "AssetID": 16
+    },
+    "MeshData": {
+        "FaceEnd": 56,
+        "FaceStart": 48,
+        "VertexEnd": 8,
+        "VertexStart": 0
+    },
     "DataModel": {
         "PlaceId": 416,
         "GameId": 408,
@@ -241,7 +254,7 @@
         "Sit": 489,
         "PlatformStand": 488,
         "UseJumpPower": 492,
-        "AutomaticScalingEnabled": 482,
+        "AutomaticScalingEnabled": 222,
         "BreakJointsOnDeath": 483,
         "EvaluateStateMachine": 484,
         "RequiresNeck": 489,
