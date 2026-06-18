@@ -1,4 +1,4 @@
-// Roblox Version: version-76173e47a79145c7
+// Roblox Version: version-8884371d30284041
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,21 +8,21 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 134000776,
+        "Pointer": 135644776,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 135629696,
+        "Pointer": 137274360,
         "Dimensions": 2736,
         "ViewMatrix": 336,
-        "RenderView": 2992,
+        "RenderView": 3000,
         "FakeDataModel": 2704
     },
     "FakeDataModel": {
-        "Pointer": 128162520,
+        "Pointer": 129824424,
         "RealDataModel": 472
     },
     "MouseService": {
@@ -54,7 +54,7 @@
         "Parent": 112,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 3408,
+        "ClassBase": 3264,
         "AttributeContainer": 72,
         "AttributeList": 24,
         "AttributeToNext": 88,
@@ -80,19 +80,19 @@
         "VertexStart": 0
     },
     "DataModel": {
-        "PlaceId": 416,
-        "GameId": 408,
-        "CreatorId": 400,
-        "GameLoaded": 1648,
+        "PlaceId": 424,
+        "GameId": 416,
+        "CreatorId": 408,
+        "GameLoaded": 1656,
         "JobId": 312,
         "Workspace": 376,
         "ScriptContext": 1088,
-        "PlaceVersion": 444,
-        "ServerIP": 1624,
-        "ToRenderView1": 472,
+        "PlaceVersion": 452,
+        "ServerIP": 1632,
+        "ToRenderView1": 480,
         "ToRenderView2": 8,
         "ToRenderView3": 40,
-        "PrimitiveCount": 1184
+        "PrimitiveCount": 1192
     },
     "RunService": {
         "HeartbeatTask": 248,
@@ -104,17 +104,17 @@
         "RealDataModel": 456
     },
     "Workspace": {
-        "World": 1032,
-        "ReadOnlyGravity": 2544,
-        "DistributedGameTime": 1232,
-        "CurrentCamera": 1200
+        "World": 1024,
+        "ReadOnlyGravity": 2536,
+        "DistributedGameTime": 1224,
+        "CurrentCamera": 1192
     },
     "World": {
         "Gravity": 528,
-        "worldStepsPerSec": 1656,
+        "worldStepsPerSec": 1664,
         "FallenPartsDestroyHeight": 520,
         "AirProperties": 536,
-        "Primitives": 640
+        "Primitives": 648
     },
     "AirProperties": {
         "AirDensity": 24,
@@ -162,7 +162,7 @@
         "Looped": 341
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 61,
+        "AllowTeamChangeOnTouch": 496,
         "Enabled": 497,
         "Neutral": 498,
         "ForcefieldDuration": 488,
@@ -212,20 +212,20 @@
         "Width1": 452
     },
     "Player": {
-        "LocalPlayer": 312,
+        "LocalPlayer": 328,
         "UserId": 760,
         "DisplayName": 336,
-        "HealthDisplayDistance": 888,
-        "NameDisplayDistance": 904,
-        "ModelInstance": 968,
+        "HealthDisplayDistance": 892,
+        "NameDisplayDistance": 908,
+        "ModelInstance": 976,
         "Team": 720,
-        "TeamColor": 916,
+        "TeamColor": 920,
         "LocaleId": 304,
         "AccountAge": 844,
-        "MinZoomDistance": 852,
-        "MaxZoomDistance": 841,
-        "CameraMode": 856,
-        "Mouse": 4480
+        "MinZoomDistance": 856,
+        "MaxZoomDistance": 852,
+        "CameraMode": 860,
+        "Mouse": 4488
     },
     "Team": {
         "BrickColor": 208
@@ -284,17 +284,17 @@
         "Value": 200
     },
     "Tool": {
-        "Tooltip": 1144,
-        "TextureId": 880,
-        "Grip": 1212,
-        "Enabled": 1225,
-        "CanBeDropped": 1224,
-        "ManualActivationOnly": 1226,
-        "RequiresHandle": 1227
+        "Tooltip": 1136,
+        "TextureId": 872,
+        "Grip": 1204,
+        "Enabled": 1217,
+        "CanBeDropped": 1216,
+        "ManualActivationOnly": 1218,
+        "RequiresHandle": 1219
     },
     "Clothing": {
-        "Template": 264,
-        "Color3": 296
+        "Template": 280,
+        "Color3": 312
     },
     "CharacterMesh": {
         "BaseTextureId": 224,
@@ -325,7 +325,7 @@
     "Primitive": {
         "Position": 236,
         "Validate": 6,
-        "Owner": 512,
+        "Owner": 520,
         "Size": 440,
         "Rotation": 200,
         "Flags": 438,
@@ -515,7 +515,7 @@
         "IsPlaying": 2576
     },
     "Animator": {
-        "ActiveAnimations": 2176
+        "ActiveAnimations": 2184
     },
     "LocalScript": {
         "GUID": 232,
