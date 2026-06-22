@@ -37,6 +37,17 @@ namespace Offsets {
          inline constexpr uintptr_t Position = 0xdc;
     }
 
+    namespace Attribute {
+         inline constexpr uintptr_t Key = 0x0;
+         inline constexpr uintptr_t Size = 0x58;
+         inline constexpr uintptr_t Value = 0x18;
+    }
+
+    namespace AttributesMap {
+         inline constexpr uintptr_t Attributes = 0x10;
+         inline constexpr uintptr_t Length = 0x0;
+    }
+
     namespace BasePart {
          inline constexpr uintptr_t CastShadow = 0xf5;
          inline constexpr uintptr_t Color3 = 0x194;
@@ -229,15 +240,12 @@ namespace Offsets {
     }
 
     namespace Instance {
-         inline constexpr uintptr_t AttributeContainer = 0x48;
-         inline constexpr uintptr_t AttributeList = 0x18;
-         inline constexpr uintptr_t AttributeToNext = 0x58;
-         inline constexpr uintptr_t AttributeToValue = 0x18;
          inline constexpr uintptr_t ChildrenEnd = 0x8;
          inline constexpr uintptr_t ChildrenStart = 0x78;
-         inline constexpr uintptr_t ClassBase = 0xcc0;
+         inline constexpr uintptr_t ClassBase = 0x5b0;
          inline constexpr uintptr_t ClassDescriptor = 0x18;
          inline constexpr uintptr_t ClassName = 0x8;
+         inline constexpr uintptr_t ComponentMap = 0x38;
          inline constexpr uintptr_t Name = 0xb0;
          inline constexpr uintptr_t Parent = 0x70;
          inline constexpr uintptr_t This = 0x8;
@@ -300,7 +308,7 @@ namespace Offsets {
 
     namespace MeshContentProvider {
          inline constexpr uintptr_t AssetID = 0x10;
-         inline constexpr uintptr_t Cache = 0xe8;
+         inline constexpr uintptr_t Cache = 0xf0;
          inline constexpr uintptr_t LRUCache = 0x20;
          inline constexpr uintptr_t MeshData = 0x40;
          inline constexpr uintptr_t ToMeshData = 0x40;
@@ -432,8 +440,8 @@ namespace Offsets {
     }
 
     namespace RunService {
-         inline constexpr uintptr_t HeartbeatFPS = 0xb8;
-         inline constexpr uintptr_t HeartbeatTask = 0xf8;
+         inline constexpr uintptr_t HeartbeatFPS = 0xf4;
+         inline constexpr uintptr_t HeartbeatTask = 0x3b8;
     }
 
     namespace Script {
