@@ -54,11 +54,8 @@
         "Parent": 112,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 3264,
-        "AttributeContainer": 72,
-        "AttributeList": 24,
-        "AttributeToNext": 88,
-        "AttributeToValue": 24
+        "ClassBase": 1456,
+        "ComponentMap": 56
     },
     "Misc": {
         "StringLength": 16,
@@ -67,7 +64,7 @@
         "AnimationId": 216
     },
     "MeshContentProvider": {
-        "Cache": 232,
+        "Cache": 240,
         "LRUCache": 32,
         "MeshData": 64,
         "ToMeshData": 64,
@@ -78,6 +75,15 @@
         "FaceStart": 48,
         "VertexEnd": 8,
         "VertexStart": 0
+    },
+    "AttributesMap": {
+        "Length": 0,
+        "Attributes": 16
+    },
+    "Attribute": {
+        "Key": 0,
+        "Value": 24,
+        "Size": 88
     },
     "DataModel": {
         "PlaceId": 424,
@@ -95,8 +101,8 @@
         "PrimitiveCount": 1192
     },
     "RunService": {
-        "HeartbeatTask": 248,
-        "HeartbeatFPS": 184
+        "HeartbeatTask": 952,
+        "HeartbeatFPS": 244
     },
     "RenderJob": {
         "RenderView": 464,
