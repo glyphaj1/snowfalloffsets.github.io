@@ -242,7 +242,7 @@ namespace Offsets {
     namespace Instance {
          inline constexpr uintptr_t ChildrenEnd = 0x8;
          inline constexpr uintptr_t ChildrenStart = 0x78;
-         inline constexpr uintptr_t ClassBase = 0x5b0;
+         inline constexpr uintptr_t ClassBase = 0x230;
          inline constexpr uintptr_t ClassDescriptor = 0x18;
          inline constexpr uintptr_t ClassName = 0x8;
          inline constexpr uintptr_t ComponentMap = 0x38;
@@ -349,7 +349,7 @@ namespace Offsets {
          inline constexpr uintptr_t InputObject = 0x108;
          inline constexpr uintptr_t InputObject2 = 0x118;
          inline constexpr uintptr_t MousePosition = 0xec;
-         inline constexpr uintptr_t SensitivityPointer = 0x307;
+         inline constexpr uintptr_t SensitivityPointer = 0x7d92898;
     }
 
     namespace ParticleEmitter {
@@ -440,8 +440,8 @@ namespace Offsets {
     }
 
     namespace RunService {
-         inline constexpr uintptr_t HeartbeatFPS = 0xf4;
-         inline constexpr uintptr_t HeartbeatTask = 0x3b8;
+         inline constexpr uintptr_t HeartbeatFPS = 0xb8;
+         inline constexpr uintptr_t HeartbeatTask = 0xf8;
     }
 
     namespace Script {
@@ -484,7 +484,7 @@ namespace Offsets {
     }
 
     namespace SpawnLocation {
-         inline constexpr uintptr_t AllowTeamChangeOnTouch = 0x1f0;
+         inline constexpr uintptr_t AllowTeamChangeOnTouch = 0x3d;
          inline constexpr uintptr_t Enabled = 0x1f1;
          inline constexpr uintptr_t ForcefieldDuration = 0x1e8;
          inline constexpr uintptr_t Neutral = 0x1f2;
@@ -546,7 +546,7 @@ namespace Offsets {
     }
 
     namespace Tool {
-         inline constexpr uintptr_t CanBeDropped = 0x4c0;
+         inline constexpr uintptr_t CanBeDropped = 0x1f5;
          inline constexpr uintptr_t Enabled = 0x4c1;
          inline constexpr uintptr_t Grip = 0x4b4;
          inline constexpr uintptr_t ManualActivationOnly = 0x4c2;
