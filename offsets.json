@@ -26,7 +26,7 @@
         "RealDataModel": 472
     },
     "MouseService": {
-        "SensitivityPointer": 775,
+        "SensitivityPointer": 131672216,
         "InputObject": 264,
         "InputObject2": 280,
         "MousePosition": 236
@@ -54,7 +54,7 @@
         "Parent": 112,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 1456,
+        "ClassBase": 560,
         "ComponentMap": 56
     },
     "Misc": {
@@ -101,8 +101,8 @@
         "PrimitiveCount": 1192
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 248,
+        "HeartbeatFPS": 184
     },
     "RenderJob": {
         "RenderView": 464,
@@ -168,7 +168,7 @@
         "Looped": 341
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 496,
+        "AllowTeamChangeOnTouch": 61,
         "Enabled": 497,
         "Neutral": 498,
         "ForcefieldDuration": 488,
@@ -294,7 +294,7 @@
         "TextureId": 872,
         "Grip": 1204,
         "Enabled": 1217,
-        "CanBeDropped": 1216,
+        "CanBeDropped": 501,
         "ManualActivationOnly": 1218,
         "RequiresHandle": 1219
     },
