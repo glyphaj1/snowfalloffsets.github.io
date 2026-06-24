@@ -1,4 +1,4 @@
-// Roblox Version: version-8884371d30284041
+// Roblox Version: version-1a951716f19e4638
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,25 +8,25 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 135644776,
+        "Pointer": 135762040,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 137274360,
+        "Pointer": 137390936,
         "Dimensions": 2736,
         "ViewMatrix": 336,
         "RenderView": 3000,
         "FakeDataModel": 2704
     },
     "FakeDataModel": {
-        "Pointer": 129824424,
-        "RealDataModel": 472
+        "Pointer": 129929848,
+        "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 131672216,
+        "SensitivityPointer": 131762808,
         "InputObject": 264,
         "InputObject2": 280,
         "MousePosition": 236
@@ -89,16 +89,16 @@
         "PlaceId": 424,
         "GameId": 416,
         "CreatorId": 408,
-        "GameLoaded": 1656,
+        "GameLoaded": 1648,
         "JobId": 312,
         "Workspace": 376,
         "ScriptContext": 1088,
         "PlaceVersion": 452,
-        "ServerIP": 1632,
+        "ServerIP": 1624,
         "ToRenderView1": 480,
         "ToRenderView2": 8,
         "ToRenderView3": 40,
-        "PrimitiveCount": 1192
+        "PrimitiveCount": 1184
     },
     "RunService": {
         "HeartbeatTask": 248,
@@ -110,10 +110,10 @@
         "RealDataModel": 456
     },
     "Workspace": {
-        "World": 1024,
-        "ReadOnlyGravity": 2536,
-        "DistributedGameTime": 1224,
-        "CurrentCamera": 1192
+        "World": 1048,
+        "ReadOnlyGravity": 2512,
+        "DistributedGameTime": 1248,
+        "CurrentCamera": 1216
     },
     "World": {
         "Gravity": 528,
@@ -168,7 +168,7 @@
         "Looped": 341
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 61,
+        "AllowTeamChangeOnTouch": 60,
         "Enabled": 497,
         "Neutral": 498,
         "ForcefieldDuration": 488,
@@ -221,17 +221,17 @@
         "LocalPlayer": 328,
         "UserId": 760,
         "DisplayName": 336,
-        "HealthDisplayDistance": 892,
-        "NameDisplayDistance": 908,
-        "ModelInstance": 976,
+        "HealthDisplayDistance": 904,
+        "NameDisplayDistance": 920,
+        "ModelInstance": 984,
         "Team": 720,
-        "TeamColor": 920,
+        "TeamColor": 932,
         "LocaleId": 304,
-        "AccountAge": 844,
-        "MinZoomDistance": 856,
-        "MaxZoomDistance": 852,
-        "CameraMode": 860,
-        "Mouse": 4488
+        "AccountAge": 852,
+        "MinZoomDistance": 868,
+        "MaxZoomDistance": 864,
+        "CameraMode": 872,
+        "Mouse": 4504
     },
     "Team": {
         "BrickColor": 208
@@ -290,13 +290,13 @@
         "Value": 200
     },
     "Tool": {
-        "Tooltip": 1136,
-        "TextureId": 872,
-        "Grip": 1204,
-        "Enabled": 1217,
-        "CanBeDropped": 501,
-        "ManualActivationOnly": 1218,
-        "RequiresHandle": 1219
+        "Tooltip": 1160,
+        "TextureId": 896,
+        "Grip": 1228,
+        "Enabled": 1241,
+        "CanBeDropped": 1240,
+        "ManualActivationOnly": 1242,
+        "RequiresHandle": 1243
     },
     "Clothing": {
         "Template": 280,
@@ -376,19 +376,19 @@
         "Icon": 224
     },
     "GuiObject": {
-        "ScreenGui_Enabled": 1220,
-        "Position": 1296,
-        "Size": 1328,
-        "Visible": 1453,
-        "Image": 2440,
-        "Text": 3488,
-        "RichText": 2896,
-        "BackgroundColor3": 1344,
-        "BorderColor3": 1356,
-        "TextColor3": 3664,
-        "LayoutOrder": 1408,
-        "ZIndex": 411,
-        "BackgroundTransparency": 1356,
+        "ScreenGui_Enabled": 1228,
+        "Position": 1304,
+        "Size": 1336,
+        "Visible": 1461,
+        "Image": 2448,
+        "Text": 3496,
+        "RichText": 2904,
+        "BackgroundColor3": 1352,
+        "BorderColor3": 1364,
+        "TextColor3": 3672,
+        "LayoutOrder": 1416,
+        "ZIndex": 1452,
+        "BackgroundTransparency": 1364,
         "Rotation": 392
     },
     "GuiBase2D": {
@@ -521,7 +521,7 @@
         "IsPlaying": 2576
     },
     "Animator": {
-        "ActiveAnimations": 2184
+        "ActiveAnimations": 2536
     },
     "LocalScript": {
         "GUID": 232,
