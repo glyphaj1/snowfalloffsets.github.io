@@ -1,4 +1,4 @@
-// Roblox Version: version-90f2fddd3b244ff6
+// Roblox Version: version-36a2600cebf1487d
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,25 +8,25 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 136593992,
+        "Pointer": 134487752,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 138223512,
+        "Pointer": 136143304,
         "Dimensions": 2736,
         "ViewMatrix": 336,
         "RenderView": 3000,
         "FakeDataModel": 2704
     },
     "FakeDataModel": {
-        "Pointer": 130760056,
+        "Pointer": 139107992,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 132596680,
+        "SensitivityPointer": 0,
         "InputObject": 240,
         "InputObject2": 256,
         "MousePosition": 212
@@ -101,8 +101,8 @@
         "PrimitiveCount": 1176
     },
     "RunService": {
-        "HeartbeatTask": 776,
-        "HeartbeatFPS": 208
+        "HeartbeatTask": 3080,
+        "HeartbeatFPS": 180
     },
     "RenderJob": {
         "RenderView": 464,
@@ -168,7 +168,7 @@
         "Looped": 317
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 392,
+        "AllowTeamChangeOnTouch": 61,
         "Enabled": 393,
         "Neutral": 394,
         "ForcefieldDuration": 384,
@@ -488,7 +488,7 @@
     "ProximityPrompt": {
         "ActionText": 176,
         "ObjectText": 208,
-        "HoldDuration": 151,
+        "HoldDuration": 288,
         "MaxActivationDistance": 296,
         "KeyCode": 292,
         "GamepadKeyCode": 284,
