@@ -1,4 +1,4 @@
-// Roblox Version: version-36a2600cebf1487d
+// Roblox Version: version-eb158392d1c84e6a
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,21 +8,21 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 134487752,
+        "Pointer": 134968424,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 136143304,
+        "Pointer": 136623912,
         "Dimensions": 2736,
         "ViewMatrix": 336,
         "RenderView": 3000,
         "FakeDataModel": 2704
     },
     "FakeDataModel": {
-        "Pointer": 139107992,
+        "Pointer": 139588968,
         "RealDataModel": 464
     },
     "MouseService": {
@@ -89,19 +89,19 @@
         "PlaceId": 400,
         "GameId": 392,
         "CreatorId": 384,
-        "GameLoaded": 1640,
+        "GameLoaded": 1400,
         "JobId": 288,
         "Workspace": 352,
         "ScriptContext": 1088,
         "PlaceVersion": 428,
-        "ServerIP": 1616,
+        "ServerIP": 1376,
         "ToRenderView1": 456,
         "ToRenderView2": 8,
         "ToRenderView3": 40,
-        "PrimitiveCount": 1176
+        "PrimitiveCount": 960
     },
     "RunService": {
-        "HeartbeatTask": 3080,
+        "HeartbeatTask": 776,
         "HeartbeatFPS": 180
     },
     "RenderJob": {
@@ -165,6 +165,7 @@
         "PlaybackSpeed": 284,
         "Volume": 304,
         "SoundGroup": 232,
+        "IsPlaying": 320,
         "Looped": 317
     },
     "SpawnLocation": {
@@ -295,7 +296,7 @@
         "Grip": 1196,
         "Enabled": 1209,
         "CanBeDropped": 1208,
-        "ManualActivationOnly": 1210,
+        "ManualActivationOnly": 469,
         "RequiresHandle": 1211
     },
     "Clothing": {
@@ -369,7 +370,7 @@
         "Part1": 200
     },
     "UnionOperation": {
-        "AssetId": 648
+        "AssetId": 656
     },
     "PlayerMouse": {
         "Workspace": 336,
@@ -387,7 +388,7 @@
         "BorderColor3": 1356,
         "TextColor3": 3664,
         "LayoutOrder": 1408,
-        "ZIndex": 395,
+        "ZIndex": 1444,
         "BackgroundTransparency": 1356,
         "Rotation": 376
     },
@@ -518,7 +519,7 @@
         "Speed": 212,
         "TimePosition": 216,
         "Looped": 229,
-        "IsPlaying": 2704
+        "IsPlaying": 1066
     },
     "Animator": {
         "ActiveAnimations": 2592
