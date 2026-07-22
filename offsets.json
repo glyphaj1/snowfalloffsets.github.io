@@ -1,4 +1,4 @@
-// Roblox Version: version-ddf02245bdbb428c
+// Roblox Version: version-9affbe66b2624d20
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,25 +8,25 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 137076552,
+        "Pointer": 135648152,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 138706024,
+        "Pointer": 137303720,
         "Dimensions": 2736,
         "ViewMatrix": 336,
         "RenderView": 3000,
         "FakeDataModel": 2704
     },
     "FakeDataModel": {
-        "Pointer": 131237128,
+        "Pointer": 140273928,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 133077848,
+        "SensitivityPointer": 0,
         "InputObject": 240,
         "InputObject2": 256,
         "MousePosition": 212
@@ -101,8 +101,8 @@
         "PrimitiveCount": 960
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 416,
+        "HeartbeatFPS": 210
     },
     "RenderJob": {
         "RenderView": 464,
@@ -110,21 +110,21 @@
         "RealDataModel": 456
     },
     "Workspace": {
-        "World": 872,
+        "World": 992,
         "ReadOnlyGravity": 2456,
         "DistributedGameTime": 1192,
         "CurrentCamera": 1160
     },
     "World": {
-        "Gravity": 420,
-        "worldStepsPerSec": 3094,
-        "FallenPartsDestroyHeight": 0,
-        "AirProperties": 0,
-        "Primitives": 0
+        "Gravity": 528,
+        "worldStepsPerSec": 1664,
+        "FallenPartsDestroyHeight": 520,
+        "AirProperties": 536,
+        "Primitives": 648
     },
     "AirProperties": {
-        "AirDensity": 0,
-        "GlobalWind": 0
+        "AirDensity": 24,
+        "GlobalWind": 60
     },
     "Terrain": {
         "GrassLength": 392,
@@ -133,7 +133,7 @@
         "WaterWaveSize": 408,
         "WaterWaveSpeed": 412,
         "WaterColor": 376,
-        "MaterialColors": 1080
+        "MaterialColors": 1072
     },
     "MaterialColors": {
         "Asphalt": 48,
@@ -169,19 +169,19 @@
         "Looped": 317
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 392,
+        "AllowTeamChangeOnTouch": 61,
         "Enabled": 393,
         "Neutral": 394,
         "ForcefieldDuration": 384,
         "TeamColor": 388
     },
     "SurfaceAppearance": {
-        "AlphaMode": 648,
-        "Color": 624,
+        "AlphaMode": 656,
+        "Color": 632,
         "ColorMap": 200,
         "EmissiveMaskContent": 248,
-        "EmissiveStrength": 652,
-        "EmissiveTint": 636,
+        "EmissiveStrength": 660,
+        "EmissiveTint": 644,
         "MetalnessMap": 296,
         "NormalMap": 344,
         "RoughnessMap": 392
@@ -230,9 +230,9 @@
         "LocaleId": 280,
         "AccountAge": 860,
         "MinZoomDistance": 876,
-        "MaxZoomDistance": 445,
+        "MaxZoomDistance": 872,
         "CameraMode": 880,
-        "Mouse": 4568
+        "Mouse": 4576
     },
     "Team": {
         "BrickColor": 184
@@ -267,7 +267,7 @@
         "RequiresNeck": 477,
         "AutoJumpEnabled": 468,
         "AutoRotate": 469,
-        "IsWalking": 2327,
+        "IsWalking": 2367,
         "MoveToPoint": 356,
         "MoveToPart": 280,
         "WalkTimer": 1032,
@@ -294,10 +294,10 @@
         "Tooltip": 1128,
         "TextureId": 864,
         "Grip": 1196,
-        "Enabled": 1209,
+        "Enabled": 917,
         "CanBeDropped": 1208,
         "ManualActivationOnly": 1210,
-        "RequiresHandle": 1211
+        "RequiresHandle": 581
     },
     "Clothing": {
         "Template": 256,
@@ -388,7 +388,7 @@
         "BorderColor3": 1356,
         "TextColor3": 3664,
         "LayoutOrder": 1408,
-        "ZIndex": 1444,
+        "ZIndex": 395,
         "BackgroundTransparency": 1356,
         "Rotation": 376
     },
@@ -522,7 +522,7 @@
         "IsPlaying": 2704
     },
     "Animator": {
-        "ActiveAnimations": 2592
+        "ActiveAnimations": 2944
     },
     "LocalScript": {
         "GUID": 208,
