@@ -1,4 +1,4 @@
-// Roblox Version: version-ed2b47b81f08484a
+// Roblox Version: version-145f189a6a974303
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,25 +8,25 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 137800424,
+        "Pointer": 139090144,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 139429896,
-        "Dimensions": 2736,
-        "ViewMatrix": 336,
-        "RenderView": 3000,
-        "FakeDataModel": 2704
+        "Pointer": 142708576,
+        "Dimensions": 2784,
+        "ViewMatrix": 384,
+        "RenderView": 3056,
+        "FakeDataModel": 2752
     },
     "FakeDataModel": {
-        "Pointer": 131911048,
+        "Pointer": 132278648,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 133760648,
+        "SensitivityPointer": 134042040,
         "InputObject": 240,
         "InputObject2": 256,
         "MousePosition": 212
@@ -54,7 +54,7 @@
         "Parent": 104,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 560,
+        "ClassBase": 432,
         "ComponentMap": 56
     },
     "Misc": {
@@ -101,7 +101,7 @@
         "PrimitiveCount": 960
     },
     "RunService": {
-        "HeartbeatTask": 9400,
+        "HeartbeatTask": 952,
         "HeartbeatFPS": 244
     },
     "RenderJob": {
@@ -110,14 +110,14 @@
         "RealDataModel": 456
     },
     "Workspace": {
-        "World": 992,
-        "ReadOnlyGravity": 2456,
-        "DistributedGameTime": 1192,
-        "CurrentCamera": 1160
+        "World": 1008,
+        "ReadOnlyGravity": 2480,
+        "DistributedGameTime": 1208,
+        "CurrentCamera": 1176
     },
     "World": {
         "Gravity": 528,
-        "worldStepsPerSec": 1664,
+        "worldStepsPerSec": 1792,
         "FallenPartsDestroyHeight": 520,
         "AirProperties": 536,
         "Primitives": 648
@@ -169,9 +169,9 @@
         "Looped": 317
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 392,
+        "AllowTeamChangeOnTouch": 61,
         "Enabled": 393,
-        "Neutral": 394,
+        "Neutral": 173,
         "ForcefieldDuration": 384,
         "TeamColor": 388
     },
@@ -238,7 +238,7 @@
         "BrickColor": 184
     },
     "Humanoid": {
-        "Health": 392,
+        "Health": 400,
         "MaxHealth": 424,
         "Walkspeed": 464,
         "WalkspeedCheck": 956,
@@ -249,10 +249,10 @@
         "SeatPart": 264,
         "HumanoidRootPart": 1144,
         "CameraOffset": 296,
-        "HealthDisplayDistance": 396,
+        "HealthDisplayDistance": 392,
         "NameDisplayDistance": 432,
         "DisplayDistanceType": 384,
-        "HealthDisplayType": 400,
+        "HealthDisplayType": 396,
         "NameOcclusion": 436,
         "DisplayName": 184,
         "MoveDirection": 320,
@@ -294,7 +294,7 @@
         "Tooltip": 1128,
         "TextureId": 864,
         "Grip": 1196,
-        "Enabled": 1209,
+        "Enabled": 357,
         "CanBeDropped": 1208,
         "ManualActivationOnly": 1210,
         "RequiresHandle": 1211
@@ -347,8 +347,8 @@
         "CanQuery": 32
     },
     "MeshPart": {
-        "MeshId": 656,
-        "Texture": 704
+        "MeshId": 680,
+        "Texture": 728
     },
     "Model": {
         "PrimaryPart": 600,
@@ -370,7 +370,7 @@
         "Part1": 200
     },
     "UnionOperation": {
-        "AssetId": 656
+        "AssetId": 680
     },
     "PlayerMouse": {
         "Workspace": 336,
@@ -382,11 +382,11 @@
         "Size": 1328,
         "Visible": 1453,
         "Image": 2440,
-        "Text": 3488,
-        "RichText": 2896,
+        "Text": 3560,
+        "RichText": 2936,
         "BackgroundColor3": 1344,
         "BorderColor3": 1356,
-        "TextColor3": 3664,
+        "TextColor3": 3736,
         "LayoutOrder": 1408,
         "ZIndex": 395,
         "BackgroundTransparency": 1356,
@@ -409,28 +409,28 @@
         "Texture_Texture": 384
     },
     "Lighting": {
-        "ClockTime": 424,
-        "Brightness": 272,
-        "EnvironmentDiffuseScale": 276,
-        "EnvironmentSpecularScale": 280,
-        "FogStart": 296,
-        "FogEnd": 292,
-        "FogColor": 236,
-        "Ambient": 200,
-        "OutdoorAmbient": 248,
-        "ColorShift_Top": 212,
-        "ColorShift_Bottom": 224,
-        "ExposureCompensation": 284,
-        "GeographicLatitude": 384,
-        "LightColor": 332,
-        "GradientTop": 320,
-        "LightDirection": 344,
-        "GradientBottom": 388,
-        "GlobalShadows": 312,
-        "MoonPosition": 372,
-        "SunPosition": 360,
-        "Source": 356,
-        "Sky": 456
+        "ClockTime": 200,
+        "Brightness": 280,
+        "EnvironmentDiffuseScale": 284,
+        "EnvironmentSpecularScale": 288,
+        "FogStart": 304,
+        "FogEnd": 300,
+        "FogColor": 244,
+        "Ambient": 208,
+        "OutdoorAmbient": 256,
+        "ColorShift_Top": 220,
+        "ColorShift_Bottom": 232,
+        "ExposureCompensation": 292,
+        "GeographicLatitude": 308,
+        "LightColor": 340,
+        "GradientTop": 328,
+        "LightDirection": 352,
+        "GradientBottom": 392,
+        "GlobalShadows": 324,
+        "MoonPosition": 380,
+        "SunPosition": 368,
+        "Source": 364,
+        "Sky": 448
     },
     "Sky": {
         "SkyboxBk": 248,
@@ -519,7 +519,7 @@
         "Speed": 212,
         "TimePosition": 216,
         "Looped": 229,
-        "IsPlaying": 2704
+        "IsPlaying": 1519
     },
     "Animator": {
         "ActiveAnimations": 2944
