@@ -1,4 +1,4 @@
-// Roblox Version: version-145f189a6a974303
+// Roblox Version: version-d584fb6c717a43d9
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,25 +8,25 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 139090144,
-        "JobStart": 200,
-        "JobEnd": 208,
-        "JobName": 24,
-        "MaxFPS": 176
+        "Pointer": 775,
+        "JobStart": 0,
+        "JobEnd": 0,
+        "JobName": 0,
+        "MaxFPS": 4096
     },
     "VisualEngine": {
-        "Pointer": 142708576,
+        "Pointer": 135385248,
         "Dimensions": 2784,
         "ViewMatrix": 384,
         "RenderView": 3056,
         "FakeDataModel": 2752
     },
     "FakeDataModel": {
-        "Pointer": 132278648,
+        "Pointer": 145086280,
         "RealDataModel": 464
     },
     "MouseService": {
-        "SensitivityPointer": 134042040,
+        "SensitivityPointer": 0,
         "InputObject": 240,
         "InputObject2": 256,
         "MousePosition": 212
@@ -38,7 +38,7 @@
         "IsCoreScript": 0,
         "GUID": 208,
         "Hash": 328,
-        "ByteCode": 312
+        "ByteCode": 0
     },
     "RenderView": {
         "LightingValid": 336,
@@ -48,17 +48,17 @@
     },
     "Instance": {
         "This": 8,
-        "Name": 152,
-        "ChildrenStart": 112,
+        "NameContainer": 112,
+        "Name": 8,
+        "ChildrenStart": 120,
         "ChildrenEnd": 8,
         "Parent": 104,
         "ClassDescriptor": 24,
         "ClassName": 8,
-        "ClassBase": 432,
-        "ComponentMap": 56
+        "ClassBase": 432
     },
     "Misc": {
-        "StringLength": 16,
+        "StringLength": 0,
         "Adornee": 240,
         "Value": 184,
         "AnimationId": 192
@@ -76,15 +76,6 @@
         "VertexEnd": 8,
         "VertexStart": 0
     },
-    "AttributesMap": {
-        "Length": 0,
-        "Attributes": 16
-    },
-    "Attribute": {
-        "Key": 0,
-        "Value": 24,
-        "Size": 88
-    },
     "DataModel": {
         "PlaceId": 400,
         "GameId": 392,
@@ -95,32 +86,30 @@
         "ScriptContext": 1088,
         "PlaceVersion": 428,
         "ServerIP": 1376,
-        "ToRenderView1": 456,
+        "ToRenderView1": 256,
         "ToRenderView2": 8,
-        "ToRenderView3": 40,
+        "ToRenderView3": 8,
         "PrimitiveCount": 960
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 672,
+        "HeartbeatFPS": 236
     },
     "RenderJob": {
-        "RenderView": 464,
-        "FakeDataModel": 56,
-        "RealDataModel": 456
+        "RenderView": 0
     },
     "Workspace": {
         "World": 1008,
-        "ReadOnlyGravity": 2480,
+        "ReadOnlyGravity": 2488,
         "DistributedGameTime": 1208,
         "CurrentCamera": 1176
     },
     "World": {
         "Gravity": 528,
-        "worldStepsPerSec": 1792,
+        "worldStepsPerSec": 1800,
         "FallenPartsDestroyHeight": 520,
-        "AirProperties": 536,
-        "Primitives": 648
+        "AirProperties": 544,
+        "Primitives": 656
     },
     "AirProperties": {
         "AirDensity": 24,
@@ -169,9 +158,9 @@
         "Looped": 317
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 61,
+        "AllowTeamChangeOnTouch": 392,
         "Enabled": 393,
-        "Neutral": 173,
+        "Neutral": 394,
         "ForcefieldDuration": 384,
         "TeamColor": 388
     },
@@ -220,7 +209,7 @@
     },
     "Player": {
         "LocalPlayer": 304,
-        "UserId": 208,
+        "UserId": 768,
         "DisplayName": 312,
         "HealthDisplayDistance": 912,
         "NameDisplayDistance": 928,
@@ -232,7 +221,7 @@
         "MinZoomDistance": 876,
         "MaxZoomDistance": 872,
         "CameraMode": 880,
-        "Mouse": 4576
+        "Mouse": 4584
     },
     "Team": {
         "BrickColor": 184
@@ -294,7 +283,7 @@
         "Tooltip": 1128,
         "TextureId": 864,
         "Grip": 1196,
-        "Enabled": 357,
+        "Enabled": 1209,
         "CanBeDropped": 1208,
         "ManualActivationOnly": 1210,
         "RequiresHandle": 1211
@@ -307,7 +296,7 @@
         "BaseTextureId": 200,
         "OverlayTextureId": 296,
         "MeshId": 248,
-        "BodyPart": 328
+        "BodyPart": 256
     },
     "Camera": {
         "Position": 252,
@@ -332,8 +321,8 @@
     "Primitive": {
         "Position": 236,
         "Validate": 6,
-        "Owner": 520,
-        "Size": 440,
+        "Owner": 528,
+        "Size": 444,
         "Rotation": 200,
         "Flags": 438,
         "Material": 0,
@@ -382,20 +371,20 @@
         "Size": 1328,
         "Visible": 1453,
         "Image": 2440,
-        "Text": 3560,
+        "Text": 3568,
         "RichText": 2936,
         "BackgroundColor3": 1344,
         "BorderColor3": 1356,
-        "TextColor3": 3736,
+        "TextColor3": 3744,
         "LayoutOrder": 1408,
-        "ZIndex": 395,
+        "ZIndex": 1444,
         "BackgroundTransparency": 1356,
-        "Rotation": 376
+        "Rotation": 232
     },
     "GuiBase2D": {
-        "AbsoluteSize": 256,
-        "AbsolutePosition": 248,
-        "AbsoluteRotation": 376
+        "AbsoluteSize": 276,
+        "AbsolutePosition": 268,
+        "AbsoluteRotation": 232
     },
     "UserInputService": {
         "WindowInputState": 704
@@ -422,15 +411,15 @@
         "ColorShift_Bottom": 232,
         "ExposureCompensation": 292,
         "GeographicLatitude": 308,
-        "LightColor": 340,
-        "GradientTop": 328,
-        "LightDirection": 352,
-        "GradientBottom": 392,
+        "LightColor": 348,
+        "GradientTop": 336,
+        "LightDirection": 360,
+        "GradientBottom": 400,
         "GlobalShadows": 324,
-        "MoonPosition": 380,
-        "SunPosition": 368,
-        "Source": 364,
-        "Sky": 448
+        "MoonPosition": 388,
+        "SunPosition": 376,
+        "Source": 372,
+        "Sky": 456
     },
     "Sky": {
         "SkyboxBk": 248,
@@ -519,7 +508,7 @@
         "Speed": 212,
         "TimePosition": 216,
         "Looped": 229,
-        "IsPlaying": 1519
+        "IsPlaying": 2704
     },
     "Animator": {
         "ActiveAnimations": 2944
@@ -527,7 +516,7 @@
     "LocalScript": {
         "GUID": 208,
         "Hash": 416,
-        "ByteCode": 400
+        "ByteCode": 0
     },
     "ByteCode": {
         "Size": 32,
@@ -536,6 +525,6 @@
     "Script": {
         "GUID": 208,
         "Hash": 416,
-        "ByteCode": 400
+        "ByteCode": 0
     }
 }
