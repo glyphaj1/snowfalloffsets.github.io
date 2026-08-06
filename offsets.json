@@ -8,11 +8,11 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 775,
-        "JobStart": 0,
-        "JobEnd": 0,
-        "JobName": 0,
-        "MaxFPS": 4096
+        "Pointer": 142190312,
+        "JobStart": 200,
+        "JobEnd": 208,
+        "JobName": 24,
+        "MaxFPS": 176
     },
     "VisualEngine": {
         "Pointer": 135385248,
@@ -86,17 +86,19 @@
         "ScriptContext": 1088,
         "PlaceVersion": 428,
         "ServerIP": 1376,
-        "ToRenderView1": 256,
+        "ToRenderView1": 456,
         "ToRenderView2": 8,
-        "ToRenderView3": 8,
+        "ToRenderView3": 40,
         "PrimitiveCount": 960
     },
     "RunService": {
-        "HeartbeatTask": 672,
-        "HeartbeatFPS": 236
+        "HeartbeatTask": 1720,
+        "HeartbeatFPS": 244
     },
     "RenderJob": {
-        "RenderView": 0
+        "RenderView": 464,
+        "FakeDataModel": 56,
+        "RealDataModel": 456
     },
     "Workspace": {
         "World": 1008,
@@ -158,7 +160,7 @@
         "Looped": 317
     },
     "SpawnLocation": {
-        "AllowTeamChangeOnTouch": 392,
+        "AllowTeamChangeOnTouch": 61,
         "Enabled": 393,
         "Neutral": 394,
         "ForcefieldDuration": 384,
@@ -283,9 +285,9 @@
         "Tooltip": 1128,
         "TextureId": 864,
         "Grip": 1196,
-        "Enabled": 1209,
+        "Enabled": 837,
         "CanBeDropped": 1208,
-        "ManualActivationOnly": 1210,
+        "ManualActivationOnly": 661,
         "RequiresHandle": 1211
     },
     "Clothing": {
@@ -311,7 +313,7 @@
     "BasePart": {
         "Primitive": 296,
         "Transparency": 208,
-        "Color3": 328,
+        "Color3": 244,
         "Shape": 345,
         "Massless": 215,
         "CastShadow": 213,
