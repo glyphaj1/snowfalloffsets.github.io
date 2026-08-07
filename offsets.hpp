@@ -1,8 +1,21 @@
-// Roblox Version: version-d584fb6c717a43d9
-// Byfron Version: ???
+#pragma once
+/* =============================================================
+/*                       theo's offsets                         
+/*                  https://offsets.imtheo.lol                  
+/* -------------------------------------------------------------
+/*  Dumped With     : RbxDumperV2 and SnowfallDumper            
+/*  Roblox Version  : version-d584fb6c717a43d9
+/*  Dumper Version  : 2.1.7
+/*  Dumped At       : 01:04 06/08/2026 (GMT)
+/*  Total Offsets   : 413
+/* -------------------------------------------------------------
+/*  Join the discord!                                           
+/*  https://offsets.imtheo.lol/discord                          
+/* =============================================================
+*/
 
-// External Offsets HPP
-
+#include <cstdint>
+#include <string>
 namespace Offsets {
     inline std::string ClientVersion = "version-d584fb6c717a43d9";
 
@@ -164,6 +177,23 @@ namespace Offsets {
          inline constexpr uintptr_t RealDataModel = 0x1d0;
     }
 
+    namespace FastClusterEntity {
+         inline constexpr uintptr_t VTableRva = 0x68cda58;
+         inline constexpr uintptr_t ContextPtr = 0x8;
+         inline constexpr uintptr_t AlphaByte = 0x14;
+         inline constexpr uintptr_t MaterialPtr = 0x20;
+         inline constexpr uintptr_t DecalMaterialPtr = 0x48;
+         inline constexpr uintptr_t TechniqueArrayPtr = 0x70;
+         inline constexpr uintptr_t PrimitiveIndexArrayPtr = 0x80;
+         inline constexpr uintptr_t BBoxMinX = 0x98;
+         inline constexpr uintptr_t BBoxMinY = 0x9c;
+         inline constexpr uintptr_t BBoxMinZ = 0xa0;
+         inline constexpr uintptr_t BBoxMaxX = 0xa4;
+         inline constexpr uintptr_t BBoxMaxY = 0xa8;
+         inline constexpr uintptr_t BBoxMaxZ = 0xac;
+         inline constexpr uintptr_t RenderQueueId = 0x10;
+    }
+
     namespace GuiBase2D {
          inline constexpr uintptr_t AbsolutePosition = 0x10c;
          inline constexpr uintptr_t AbsoluteRotation = 0xe8;
@@ -293,6 +323,15 @@ namespace Offsets {
          inline constexpr uintptr_t Slate = 0x9;
          inline constexpr uintptr_t Snow = 0x1e;
          inline constexpr uintptr_t WoodPlanks = 0x15;
+    }
+
+    namespace MaterialLayer {
+         inline constexpr uintptr_t Stride = 0x88;
+         inline constexpr uintptr_t FillModeByte = 0x11;
+         inline constexpr uintptr_t MatFlags = 0x18;
+         inline constexpr uintptr_t Param = 0x1c;
+         inline constexpr uintptr_t Flags2 = 0x20;
+         inline constexpr uintptr_t ColorData = 0x24;
     }
 
     namespace MeshContentProvider {
@@ -520,6 +559,12 @@ namespace Offsets {
          inline constexpr uintptr_t BrickColor = 0xb8;
     }
 
+    namespace TechniqueArray {
+         inline constexpr uintptr_t BeginOffset = 0x0;
+         inline constexpr uintptr_t EndOffset = 0x8;
+         inline constexpr uintptr_t EntryStride = 0x88;
+    }
+
     namespace Terrain {
          inline constexpr uintptr_t GrassLength = 0x188;
          inline constexpr uintptr_t MaterialColors = 0x430;
@@ -597,6 +642,11 @@ namespace Offsets {
          inline constexpr uintptr_t Gravity = 0x210;
          inline constexpr uintptr_t Primitives = 0x290;
          inline constexpr uintptr_t worldStepsPerSec = 0x708;
+    }
+
+    namespace WorldRoot {
+         inline constexpr uintptr_t RaycastBoundDesc = 0x81e7150;
+         inline constexpr uintptr_t RaycastBoundFn = 0x80;
     }
 
 }
