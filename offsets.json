@@ -1,4 +1,4 @@
-// Roblox Version: version-ddf602d9cfe44005
+// Roblox Version: version-ce0bcd0fbd484804
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,21 +8,21 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 143353032,
+        "Pointer": 144560392,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 135488040,
+        "Pointer": 136830344,
         "Dimensions": 2784,
         "ViewMatrix": 384,
         "RenderView": 3072,
         "FakeDataModel": 2752
     },
     "FakeDataModel": {
-        "Pointer": 146250584,
+        "Pointer": 147072760,
         "RealDataModel": 472
     },
     "MouseService": {
@@ -80,20 +80,20 @@
         "PlaceId": 392,
         "GameId": 384,
         "CreatorId": 376,
-        "GameLoaded": 1392,
+        "GameLoaded": 1472,
         "JobId": 280,
         "Workspace": 344,
         "ScriptContext": 1088,
         "PlaceVersion": 420,
-        "ServerIP": 1368,
+        "ServerIP": 1448,
         "ToRenderView1": 448,
         "ToRenderView2": 8,
         "ToRenderView3": 40,
-        "PrimitiveCount": 952
+        "PrimitiveCount": 1032
     },
     "RunService": {
-        "HeartbeatTask": 952,
-        "HeartbeatFPS": 244
+        "HeartbeatTask": 224,
+        "HeartbeatFPS": 200
     },
     "RenderJob": {
         "RenderView": 472,
@@ -102,7 +102,7 @@
     },
     "Workspace": {
         "World": 1008,
-        "ReadOnlyGravity": 2496,
+        "ReadOnlyGravity": 2504,
         "DistributedGameTime": 1208,
         "CurrentCamera": 1176
     },
@@ -167,12 +167,12 @@
         "TeamColor": 484
     },
     "SurfaceAppearance": {
-        "AlphaMode": 656,
-        "Color": 632,
+        "AlphaMode": 496,
+        "Color": 472,
         "ColorMap": 200,
         "EmissiveMaskContent": 248,
-        "EmissiveStrength": 660,
-        "EmissiveTint": 644,
+        "EmissiveStrength": 500,
+        "EmissiveTint": 484,
         "MetalnessMap": 296,
         "NormalMap": 344,
         "RoughnessMap": 392
@@ -221,7 +221,7 @@
         "LocaleId": 280,
         "AccountAge": 860,
         "MinZoomDistance": 876,
-        "MaxZoomDistance": 872,
+        "MaxZoomDistance": 349,
         "CameraMode": 880,
         "Mouse": 4592
     },
@@ -250,8 +250,8 @@
         "RigType": 448,
         "Jump": 474,
         "Sit": 477,
-        "PlatformStand": 197,
-        "UseJumpPower": 197,
+        "PlatformStand": 476,
+        "UseJumpPower": 480,
         "AutomaticScalingEnabled": 470,
         "BreakJointsOnDeath": 471,
         "EvaluateStateMachine": 472,
@@ -510,7 +510,7 @@
         "Speed": 212,
         "TimePosition": 216,
         "Looped": 229,
-        "IsPlaying": 2704
+        "IsPlaying": 2640
     },
     "Animator": {
         "ActiveAnimations": 2944
