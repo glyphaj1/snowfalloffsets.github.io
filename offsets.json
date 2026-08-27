@@ -1,4 +1,4 @@
-// Roblox Version: version-ce0bcd0fbd484804
+// Roblox Version: version-17d504d2c9544583
 // Byfron Version: ???
 
 // External Offsets Json
@@ -8,21 +8,21 @@
         "Pointer": 0
     },
     "TaskScheduler": {
-        "Pointer": 144560392,
+        "Pointer": 144573976,
         "JobStart": 200,
         "JobEnd": 208,
         "JobName": 24,
         "MaxFPS": 176
     },
     "VisualEngine": {
-        "Pointer": 136830344,
+        "Pointer": 136847448,
         "Dimensions": 2784,
         "ViewMatrix": 384,
         "RenderView": 3072,
         "FakeDataModel": 2752
     },
     "FakeDataModel": {
-        "Pointer": 147072760,
+        "Pointer": 147086328,
         "RealDataModel": 472
     },
     "MouseService": {
@@ -92,8 +92,8 @@
         "PrimitiveCount": 1032
     },
     "RunService": {
-        "HeartbeatTask": 224,
-        "HeartbeatFPS": 200
+        "HeartbeatTask": 952,
+        "HeartbeatFPS": 244
     },
     "RenderJob": {
         "RenderView": 472,
@@ -157,7 +157,7 @@
         "Volume": 304,
         "SoundGroup": 232,
         "IsPlaying": 320,
-        "Looped": 317
+        "Looped": 173
     },
     "SpawnLocation": {
         "AllowTeamChangeOnTouch": 61,
@@ -211,7 +211,7 @@
     },
     "Player": {
         "LocalPlayer": 304,
-        "UserId": 768,
+        "UserId": 208,
         "DisplayName": 312,
         "HealthDisplayDistance": 916,
         "NameDisplayDistance": 932,
@@ -221,7 +221,7 @@
         "LocaleId": 280,
         "AccountAge": 860,
         "MinZoomDistance": 876,
-        "MaxZoomDistance": 349,
+        "MaxZoomDistance": 126,
         "CameraMode": 880,
         "Mouse": 4592
     },
@@ -286,7 +286,7 @@
         "TextureId": 864,
         "Grip": 1196,
         "Enabled": 1209,
-        "CanBeDropped": 1208,
+        "CanBeDropped": 885,
         "ManualActivationOnly": 1210,
         "RequiresHandle": 1211
     },
