@@ -1,10 +1,10 @@
-// Roblox Version: version-ce0bcd0fbd484804
+// Roblox Version: version-17d504d2c9544583
 // Byfron Version: ???
 
 // External Offsets HPP
 
 namespace Offsets {
-    inline std::string ClientVersion = "version-ce0bcd0fbd484804";
+    inline std::string ClientVersion = "version-17d504d2c9544583";
 
     namespace AirProperties {
          inline constexpr uintptr_t AirDensity = 0x18;
@@ -160,7 +160,7 @@ namespace Offsets {
     }
 
     namespace FakeDataModel {
-         inline constexpr uintptr_t Pointer = 0x8c426f8;
+         inline constexpr uintptr_t Pointer = 0x8c45bf8;
          inline constexpr uintptr_t RealDataModel = 0x1d8;
     }
 
@@ -366,14 +366,14 @@ namespace Offsets {
          inline constexpr uintptr_t HealthDisplayDistance = 0x394;
          inline constexpr uintptr_t LocalPlayer = 0x130;
          inline constexpr uintptr_t LocaleId = 0x118;
-         inline constexpr uintptr_t MaxZoomDistance = 0x15d;
+         inline constexpr uintptr_t MaxZoomDistance = 0x7e;
          inline constexpr uintptr_t MinZoomDistance = 0x36c;
          inline constexpr uintptr_t ModelInstance = 0x298;
          inline constexpr uintptr_t Mouse = 0x11f0;
          inline constexpr uintptr_t NameDisplayDistance = 0x3a4;
          inline constexpr uintptr_t Team = 0x2d8;
          inline constexpr uintptr_t TeamColor = 0x3b0;
-         inline constexpr uintptr_t UserId = 0x300;
+         inline constexpr uintptr_t UserId = 0xd0;
     }
 
     namespace PlayerConfigurer {
@@ -429,8 +429,8 @@ namespace Offsets {
     }
 
     namespace RunService {
-         inline constexpr uintptr_t HeartbeatFPS = 0xc8;
-         inline constexpr uintptr_t HeartbeatTask = 0xe0;
+         inline constexpr uintptr_t HeartbeatFPS = 0xf4;
+         inline constexpr uintptr_t HeartbeatTask = 0x3b8;
     }
 
     namespace Script {
@@ -464,7 +464,7 @@ namespace Offsets {
 
     namespace Sound {
          inline constexpr uintptr_t IsPlaying = 0x140;
-         inline constexpr uintptr_t Looped = 0x13d;
+         inline constexpr uintptr_t Looped = 0xad;
          inline constexpr uintptr_t PlaybackSpeed = 0x11c;
          inline constexpr uintptr_t RollOffMaxDistance = 0x120;
          inline constexpr uintptr_t RollOffMinDistance = 0x124;
@@ -513,7 +513,7 @@ namespace Offsets {
          inline constexpr uintptr_t JobName = 0x18;
          inline constexpr uintptr_t JobStart = 0xc8;
          inline constexpr uintptr_t MaxFPS = 0xb0;
-         inline constexpr uintptr_t Pointer = 0x89dd108;
+         inline constexpr uintptr_t Pointer = 0x89e0618;
     }
 
     namespace Team {
@@ -536,7 +536,7 @@ namespace Offsets {
     }
 
     namespace Tool {
-         inline constexpr uintptr_t CanBeDropped = 0x4b8;
+         inline constexpr uintptr_t CanBeDropped = 0x375;
          inline constexpr uintptr_t Enabled = 0x4b9;
          inline constexpr uintptr_t Grip = 0x4ac;
          inline constexpr uintptr_t ManualActivationOnly = 0x4ba;
@@ -564,7 +564,7 @@ namespace Offsets {
     namespace VisualEngine {
          inline constexpr uintptr_t Dimensions = 0xae0;
          inline constexpr uintptr_t FakeDataModel = 0xac0;
-         inline constexpr uintptr_t Pointer = 0x827dd88;
+         inline constexpr uintptr_t Pointer = 0x8282058;
          inline constexpr uintptr_t RenderView = 0xc00;
          inline constexpr uintptr_t ViewMatrix = 0x180;
     }
